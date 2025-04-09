@@ -1,2 +1,1 @@
-# test-repo
-A test repository
+Hello, GitHub from Cursor!
